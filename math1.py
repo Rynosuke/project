@@ -9,6 +9,7 @@ c = 3
 d = 6
 al = 75
 
+str = "HELLO!"
 
 def func(l = []):
     return ((((l[0] - a) * m.cos(al) + (l[1] - b) * m.sin(al)) ** 2) / c ** 2) + (
